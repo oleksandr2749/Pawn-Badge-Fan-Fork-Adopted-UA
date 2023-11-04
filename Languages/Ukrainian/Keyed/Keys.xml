@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<PawnBadge.ModName>Pawn Badge - Fan Fork</PawnBadge.ModName>
+
+    <PawnBadge.BadgeTab>Значок</PawnBadge.BadgeTab>
+    <PawnBadge.BadgeNumber>Значок {0} ({1})</PawnBadge.BadgeNumber>
+    <PawnBadge.BadgePosition>Положення значка</PawnBadge.BadgePosition>
+	
+    <PawnBadge.BadgePosition_Top>Верх</PawnBadge.BadgePosition_Top>
+    <PawnBadge.BadgePosition_Left>Ліво</PawnBadge.BadgePosition_Left>
+    <PawnBadge.BadgePosition_Right>Право</PawnBadge.BadgePosition_Right>
+    <PawnBadge.BadgePosition_Bottom>Низ</PawnBadge.BadgePosition_Bottom>
+	
+	<PawnBadge.BadgePosition_TopLeft>верх-ліво</PawnBadge.BadgePosition_TopLeft>
+	<PawnBadge.BadgePosition_TopRight>перх-право</PawnBadge.BadgePosition_TopRight>
+	<PawnBadge.BadgePosition_BottomLeft>низ-ліво</PawnBadge.BadgePosition_BottomLeft>
+	<PawnBadge.BadgePosition_BottomRight>низ-право</PawnBadge.BadgePosition_BottomRight>
+	
+    <PawnBadge.BadgeSize>Розмір значка</PawnBadge.BadgeSize>
+    <PawnBadge.BadgeSize_Small>Валий</PawnBadge.BadgeSize_Small>
+    <PawnBadge.BadgeSize_Medium>Середній</PawnBadge.BadgeSize_Medium>
+    <PawnBadge.BadgeSize_Large>Великий</PawnBadge.BadgeSize_Large>
+	
+	<PawnBadge.NoBadge>Без значка</PawnBadge.NoBadge>
+	
+	<PawnBadge.DisableBaseBadges>Вимкнути базові значки</PawnBadge.DisableBaseBadges>
+
+</LanguageData>
